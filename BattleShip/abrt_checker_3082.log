@@ -1,0 +1,1 @@
+Uncaught java.util.NoSuchElementException exception in thread "main" in a method java.util.Scanner.throwFor() with signature ()V
